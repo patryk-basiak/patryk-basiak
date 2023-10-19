@@ -2,7 +2,7 @@
 - 🇵🇱 I'm studying at the Polish-Japanese Academy of Internet Technology 🇯🇵
 - 👀 I’m interested in becoming a Data Scientist
 - 🌱 I’m currently learning Python,SQL and Java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basic data bases
 - 📫 How to reach me discord Pathowl#7713
 
 <!---
