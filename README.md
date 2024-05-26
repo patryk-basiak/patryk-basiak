@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patryk-basiak
 - 🇵🇱 I'm studying at the Polish-Japanese Academy of Information Technology 🇯🇵
-- 👀 I’m interested in becoming a better than Poliusek
+- 👀 I’m interested in becoming a better than Poliusek (in ur dreams ~Poliusek)
 - 🌱 I’m currently learning C++, SQL and Java 
 - 💞️ I’m looking to collaborate on basic databases
 - 📫 How to reach me discord Pathowl#7713
